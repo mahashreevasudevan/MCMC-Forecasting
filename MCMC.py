@@ -5,7 +5,7 @@ from statsmodels.graphics.gofplots import qqplot
 import matplotlib.pyplot as plt
 
 # Read the data from the input file
-df = pd.read_excel("your_data.xlsx")  
+df = pd.read_excel("data.xlsx")  
 value = df['Temperature']  
 
 # Statistics and Plots of the chosen parameter
