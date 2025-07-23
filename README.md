@@ -1,14 +1,14 @@
-# Forecasting Temperature Using Markov Chain Monte Carlo (MCMC)
+# Forecasting time series atmospheric temperature Using Markov Chain Monte Carlo (MCMC)
 
 ## Key Objectives:
 
-- To identify the possibility of using the Markov Chain Monte Carlo (MCMC) method for forecasting atmospheric temperature.
+- To identify the possibility of using the Markov Chain Monte Carlo (MCMC) method for forecasting time series atmospheric temperature.
 - To study temperature patterns across an arid region over a yearly cycle and simulate future values.
 - To evaluate the accuracy and reliability of MCMC-based forecasts.
 
 ## Methodology:
 
-This study uses historical temperature data from an arid region for the probabilistic modeling using the MCMC method to forecast temperature values over a 12-month period.
+This study uses historical time series atmospheric temperature data from an arid region for the probabilistic modeling using the MCMC method to forecast temperature values over a 12-month period.
 
 ## Model Pipeline:
 
@@ -27,7 +27,7 @@ This study uses historical temperature data from an arid region for the probabil
 
 ## Challenges Addressed:
 
-- Using temperature data with slight non-normal skewness.
+- Using atmospheric temperature data with slight non-normal skewness.
 - Possibility of MCMC-based simulation in replicating temperature trends.
 
 ## Results:
@@ -37,7 +37,7 @@ This study uses historical temperature data from an arid region for the probabil
 
 ## Impact:
 
-- This study shows the use of probabilistic simulation methods (like MCMC) in atmospheric data analysis. Although the model did not yield accurate forecasts, it offered insights into how statistical simulations behave with slightly skewed environmental data.
+- This study shows the use of probabilistic simulation methods (like MCMC) in time series atmospheric data analysis. Although the model did not yield accurate forecasts, it offered insights into how statistical simulations behave with slightly skewed environmental data.
 
 ## Technology and Tools
 
